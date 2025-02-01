@@ -1,2 +1,1 @@
-IntelACLabs
-Recognizing geometric shapes, their color and the percentage of the image they occupy.
+Different short codes for image processing and neural network for Recognizing geometric shapes, their color and the percentage of the image they occupy.
