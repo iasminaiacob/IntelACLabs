@@ -1,3 +1,3 @@
 IntelACLabs
 
-Temele sunt salvate in ramuri diferite. Multumesc
+Different short codes for image processing and neural networks.
